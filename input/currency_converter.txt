@@ -1,0 +1,11 @@
+5
+1 Euro = 1.4025 Dollar
+2.5 Dollar = 70.5482 Ruble
+0.1 Dollar = 4.448 Rupee
+10 Pound = 15.909 Dollar
+100 Dollar = 158.1 Real
+4
+10 Dollar => Euro
+25 Euro => Real
+100 Rupee => Ruble
+5.50 Pound => Dollar
